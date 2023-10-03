@@ -13,7 +13,7 @@ The following steps are taken in consideration for my project:
 5.  Previewing the Composable
 6.  Customize Styling and Content
 7.  Run and Test
-8. Deployment
+8.  Deployment
 
 
 ## 👨‍💻 Abstract:
